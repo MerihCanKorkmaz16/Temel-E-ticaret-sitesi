@@ -1,0 +1,12 @@
+C:\Users\ass\source\repos\CoreShopping\CoreShopping.Northwind.Entities\bin\Debug\netcoreapp3.1\CoreShopping.Northwind.Entities.deps.json
+C:\Users\ass\source\repos\CoreShopping\CoreShopping.Northwind.Entities\bin\Debug\netcoreapp3.1\CoreShopping.Northwind.Entities.dll
+C:\Users\ass\source\repos\CoreShopping\CoreShopping.Northwind.Entities\bin\Debug\netcoreapp3.1\CoreShopping.Northwind.Entities.pdb
+C:\Users\ass\source\repos\CoreShopping\CoreShopping.Northwind.Entities\bin\Debug\netcoreapp3.1\CoreShopping.Core.dll
+C:\Users\ass\source\repos\CoreShopping\CoreShopping.Northwind.Entities\bin\Debug\netcoreapp3.1\CoreShopping.Core.pdb
+C:\Users\ass\source\repos\CoreShopping\CoreShopping.Northwind.Entities\obj\Debug\netcoreapp3.1\CoreShopping.Northwind.Entities.csprojAssemblyReference.cache
+C:\Users\ass\source\repos\CoreShopping\CoreShopping.Northwind.Entities\obj\Debug\netcoreapp3.1\CoreShopping.Northwind.Entities.AssemblyInfoInputs.cache
+C:\Users\ass\source\repos\CoreShopping\CoreShopping.Northwind.Entities\obj\Debug\netcoreapp3.1\CoreShopping.Northwind.Entities.AssemblyInfo.cs
+C:\Users\ass\source\repos\CoreShopping\CoreShopping.Northwind.Entities\obj\Debug\netcoreapp3.1\CoreShopping.Northwind.Entities.csproj.CoreCompileInputs.cache
+C:\Users\ass\source\repos\CoreShopping\CoreShopping.Northwind.Entities\obj\Debug\netcoreapp3.1\CoreShopping.Northwind.Entities.csproj.CopyComplete
+C:\Users\ass\source\repos\CoreShopping\CoreShopping.Northwind.Entities\obj\Debug\netcoreapp3.1\CoreShopping.Northwind.Entities.dll
+C:\Users\ass\source\repos\CoreShopping\CoreShopping.Northwind.Entities\obj\Debug\netcoreapp3.1\CoreShopping.Northwind.Entities.pdb

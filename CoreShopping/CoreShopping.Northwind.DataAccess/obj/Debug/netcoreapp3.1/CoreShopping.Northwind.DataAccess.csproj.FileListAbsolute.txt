@@ -1,0 +1,14 @@
+C:\Users\ass\source\repos\CoreShopping\CoreShopping.Northwind.DataAccess\bin\Debug\netcoreapp3.1\CoreShopping.Northwind.DataAccess.deps.json
+C:\Users\ass\source\repos\CoreShopping\CoreShopping.Northwind.DataAccess\bin\Debug\netcoreapp3.1\CoreShopping.Northwind.DataAccess.dll
+C:\Users\ass\source\repos\CoreShopping\CoreShopping.Northwind.DataAccess\bin\Debug\netcoreapp3.1\CoreShopping.Northwind.DataAccess.pdb
+C:\Users\ass\source\repos\CoreShopping\CoreShopping.Northwind.DataAccess\bin\Debug\netcoreapp3.1\CoreShopping.Core.dll
+C:\Users\ass\source\repos\CoreShopping\CoreShopping.Northwind.DataAccess\bin\Debug\netcoreapp3.1\CoreShopping.Northwind.Entities.dll
+C:\Users\ass\source\repos\CoreShopping\CoreShopping.Northwind.DataAccess\bin\Debug\netcoreapp3.1\CoreShopping.Core.pdb
+C:\Users\ass\source\repos\CoreShopping\CoreShopping.Northwind.DataAccess\bin\Debug\netcoreapp3.1\CoreShopping.Northwind.Entities.pdb
+C:\Users\ass\source\repos\CoreShopping\CoreShopping.Northwind.DataAccess\obj\Debug\netcoreapp3.1\CoreShopping.Northwind.DataAccess.csprojAssemblyReference.cache
+C:\Users\ass\source\repos\CoreShopping\CoreShopping.Northwind.DataAccess\obj\Debug\netcoreapp3.1\CoreShopping.Northwind.DataAccess.AssemblyInfoInputs.cache
+C:\Users\ass\source\repos\CoreShopping\CoreShopping.Northwind.DataAccess\obj\Debug\netcoreapp3.1\CoreShopping.Northwind.DataAccess.AssemblyInfo.cs
+C:\Users\ass\source\repos\CoreShopping\CoreShopping.Northwind.DataAccess\obj\Debug\netcoreapp3.1\CoreShopping.Northwind.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\ass\source\repos\CoreShopping\CoreShopping.Northwind.DataAccess\obj\Debug\netcoreapp3.1\CoreShopping.Northwind.DataAccess.csproj.CopyComplete
+C:\Users\ass\source\repos\CoreShopping\CoreShopping.Northwind.DataAccess\obj\Debug\netcoreapp3.1\CoreShopping.Northwind.DataAccess.dll
+C:\Users\ass\source\repos\CoreShopping\CoreShopping.Northwind.DataAccess\obj\Debug\netcoreapp3.1\CoreShopping.Northwind.DataAccess.pdb

@@ -1,0 +1,12 @@
+﻿@model CoreShopping.Northwind.MvcWebUI.Model.CartSummaryViewModel
+@addTagHelper "*,Microsoft.AspNetCore.Mvc.TagHelpers"
+<div class="dropdown-menu" aria-labelledby="navbarDropdown">
+    @foreach (var item in Model.Cart.CartLines)
+    {
+        <a>@item.Product.ProductName <span class="badge">@item.Quantity</span></a>
+
+    }
+    <a><span class="glypicon glyphicon-align-left glypicon-shopping-cart" aria-hidden="true"></span>@Model.Cart.Total</a>
+    
+    <a asp-controller="Cart" asp-action="List">Go to cart Details</a>
+</div>
